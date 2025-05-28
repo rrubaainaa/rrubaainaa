@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2EA44F&lines=Hello!+👋;+Rubaina+Here!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2EA44F&lines=Hello!;+Rubaina+Here!+🙋‍♀️" />
 </h1>
+
+###
+<h2 align="left">Hi 👋! My name is Rubaina Gupta and I'm a Web Development Enthusiast & Student from Jammu, India</h2>
 
 ###
 <p align="left">On a mission to turn caffeine and curiosity into clean, creative web solutions.</p>
