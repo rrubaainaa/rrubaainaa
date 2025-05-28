@@ -6,7 +6,9 @@
 <h3 align="left">Hi 👋! My name is Rubaina Gupta and I'm a Web Development Enthusiast & Student from Jammu, India</h3>
 
 ###
-<p align="left">On a mission to turn caffeine and curiosity into clean, creative web solutions.</p>
+<p align="center" style="color:#2EA44F; font-weight:bold;">
+  🚀 On a mission to turn ☕ caffeine and 🤔 curiosity into 💻 clean, 🎨 creative web solutions.
+</p>
 
 ###
 I'm passionate about web development, exploring the world of code, and continuously learning new technologies.
