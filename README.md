@@ -9,6 +9,13 @@
 <p align="left">On a mission to turn caffeine and curiosity into clean, creative web solutions.</p>
 
 ###
+I'm passionate about web development, exploring the world of code, and continuously learning new technologies.
+I’m currently strengthening my skills in HTML, CSS, Java, Python, and databases while building practical web development projects.
+You can reach out to me at [rubainagupta@gmail.com](mailto:rubainagupta@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rrubaainaa/) for networking or collaboration opportunities.
+
+ <p align="center">**Pronouns**: she/her</p>
+
+###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
