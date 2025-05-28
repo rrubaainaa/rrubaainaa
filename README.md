@@ -3,7 +3,7 @@
 </h1>
 
 ###
-<h2 align="left">Hi 👋! My name is Rubaina Gupta and I'm a Web Development Enthusiast & Student from Jammu, India</h2>
+<h3 align="left">Hi 👋! My name is Rubaina Gupta and I'm a Web Development Enthusiast & Student from Jammu, India</h3>
 
 ###
 <p align="left">On a mission to turn caffeine and curiosity into clean, creative web solutions.</p>
