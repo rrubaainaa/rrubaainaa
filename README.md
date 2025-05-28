@@ -13,7 +13,7 @@
 ###
 I'm passionate about web development, exploring the world of code, and continuously learning new technologies.
 I’m currently strengthening my skills in HTML, CSS, Java, Python, and databases while building practical web development projects.
-You can reach out to me at [rubainagupta@gmail.com](mailto:rubainagupta@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rrubaainaa/) for networking or collaboration opportunities.
+You can reach out to me at [rubainagupta@gmail.com](mailto:[rubainagupta@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rubainagupta@gmail.com)) or connect with me on [LinkedIn](https://www.linkedin.com/in/rrubaainaa/) for networking or collaboration opportunities.
 
  <p align="center">Pronouns: she/her</p>
 
